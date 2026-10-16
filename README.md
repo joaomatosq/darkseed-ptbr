@@ -17,7 +17,7 @@ Para conferir se a sua cópia é compatível, o arquivo `TOS.EXE` do jogo deve t
 
 1. Encontre a pasta do jogo (a que tem os arquivos `TOS.EXE` e `TOSTEXT.BIN` e as subpastas `ROOM`, `ART`, `SPEECH`...).
 2. **Faça um backup** do `TOSTEXT.BIN` original, renomeando para `TOSTEXT_ORIGINAL.BIN`.
-3. Copie o arquivo [`patch/TOSTEXT.BIN`](patch/TOSTEXT.BIN) deste repositório para a pasta do jogo.
+3. Copie o arquivo [TOSTEXT.BIN](TOSTEXT.BIN) deste repositório para a pasta do jogo.
 4. No ScummVM, clique em **Adicionar jogo**, escolha a pasta e inicie.
 
 Para voltar ao inglês, apague o `TOSTEXT.BIN` traduzido e renomeie o backup de volta para `TOSTEXT.BIN`.
@@ -32,7 +32,7 @@ Para voltar ao inglês, apague o `TOSTEXT.BIN` traduzido e renomeie o backup de 
 
 | Arquivo | O que é |
 | --- | --- |
-| `patch/TOSTEXT.BIN` | O arquivo de texto do jogo, já traduzido. É o único arquivo necessário. |
+|`TOSTEXT.BIN`| O arquivo de texto do jogo, já traduzido. É o único arquivo necessário. |
 | `traducao_ptbr.tsv` | Todas as falas em português, com acentos, numeradas. Útil para revisar ou sugerir correções. |
 
 ## Correções e sugestões
